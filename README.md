@@ -15,7 +15,7 @@ Built for Hack Club Half Life.
 - [2 x Self-adhesive transparent silicone pads (only 4 are required)](https://shopee.com.my/50Pcs-Mini-Self-adhesive-Transparent-Silicone-Furniture-Pads-Rubber-Damper-Buffer-Particles-Cabinet-Bumpers-i.2766819.28533978508?extraParams=%7B%22display_model_id%22%3A305975377600%2C%22model_selection_logic%22%3A3%7D)
 - [Apple MagSafe 25w Charger](https://shopee.com.my/Apple-MagSafe-Charger-(25W)-1m-i.1459563281.28376538826?extraParams=%7B%22display_model_id%22%3A233815257672%2C%22model_selection_logic%22%3A3%7D) **OR** [UGREEN Qi2.2 25W MagSafe Charger](https://shopee.com.my/%E3%80%90Magflow%E3%80%91UGREEN-Qi2.2-25W-Magsafe-Charger-Magnetic-Wireless-Fast-Charging-Pad-iPhone-17-16-Pro-Max-Samsung-S26-S25-Ultra-i.331309804.41967992455?extraParams=%7B%22display_model_id%22%3A261481284690%2C%22model_selection_logic%22%3A3%7D)
 
-## **Assembly**##
+## **Assembly**
 - Insert the charging puck into the circular hole in the base.
 - Attach silicone pads to base, to act as an anti-slip material.
 - Stand the dock upright, and drop in the button.
